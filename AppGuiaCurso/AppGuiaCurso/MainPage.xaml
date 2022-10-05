@@ -11,8 +11,8 @@
                     <RowDefinition Height="*" />
                 </Grid.RowDefinitions>
 
-                <StackLayout Grid.Row="0" BackgroundColor="#F3F2F0" Padding="10" Margin="10" HorizontalOptions="FillAndExpand" >
-                    <Image Source="" Aspect="AspectFit" />
+                <StackLayout Grid.Row="0" BackgroundColor="White" Padding="10" Margin="10" HorizontalOptions="FillAndExpand">
+                    <Image x:Name="logo" Aspect="AspectFit" />
                 </StackLayout>
 
                 <StackLayout Grid.Row="1" Spacing="10" Margin="10" Padding="10" BackgroundColor="#F3F2F0">
@@ -31,4 +31,5 @@
         <NavigationPage>
         </NavigationPage>
     </MasterDetailPage.Detail>
+    
 </MasterDetailPage>
