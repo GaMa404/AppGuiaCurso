@@ -3,13 +3,13 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaCurso.View.ComponentesTerceiro"
              BackgroundColor="#F3F2F0"
-             Title="Disciplinas do terceiro ano">
+             Title="Disciplinas do Terceiro Ano">
     <ContentPage.Content>
         <ScrollView>
             <StackLayout VerticalOptions="CenterAndExpand" Padding="10">
                 <Button Text="Programação Web III" Clicked="Button_Clicked_Web3" Style="{ StaticResource botaoCinza }" />
                 <Button Text="Programação de Aplicativos Mobile II" Clicked="Button_Clicked_Mob2" Style="{ StaticResource botaoCinza }" />
-                <Button Text="Internet, Protocolos e Segurança de Sistemas da informação" Clicked="Button_Clicked_IPS" Style="{ StaticResource botaoCinza }" />
+                <Button Text="Internet, Protocolos e Segurança de Sistemas da Informação" Clicked="Button_Clicked_IPS" Style="{ StaticResource botaoCinza }" />
                 <Button Text="Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) 
                         em Desenvolvimento de Sistemas" Clicked="Button_Clicked_TCC" Style="{ StaticResource botaoCinza }" />
                 <Button Text="Sistemas Embarcados II" Clicked="Button_Clicked_SE2" Style="{ StaticResource botaoCinza }" />

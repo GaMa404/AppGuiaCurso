@@ -25,7 +25,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Programação Web III",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -46,7 +46,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Programação de Aplicativos Mobile II",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -67,7 +67,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Internet, Protocolos e Segurança de Sistemas da Informação",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -88,7 +88,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Desenvolvimento de Sistemas",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -109,7 +109,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Sistemas Embarcados II",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -130,7 +130,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Qualidade e Teste de Software",
 
                     AtribuicoesResponsabilidades = "",
 

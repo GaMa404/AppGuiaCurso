@@ -25,11 +25,13 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Programação Web I",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Desenvolver sites para Web.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade." +
+                                      "• Estimular a organização." +
+                                      "• Estimular o interesse na resolução de situações - problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -46,11 +48,13 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Análise e Projeto de Sistemas",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Elaborar projetos de sistema de informação.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade." +
+                                      "• Estimular a organização." +
+                                      "• Estimular o interesse na resolução de situações - problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -67,11 +71,14 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Técnicas de Programação e Algoritmo",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Realizar versionamento no desenvolvimento de programas." +
+                                                   "• Utilizar algoritmos em linguagem de programação,por meio de ambientes de desenvolvimento de acordo com as necessidades.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar atitudes de autonomia." +
+                                      "• Incentivar comportamentos éticos." +
+                                      "• Estimular o interesse na resolução de situações - problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -88,11 +95,13 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Fundamentos da Informática",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Operar sistemas computacionais.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Desenvolver a criticidade." +
+                                      "• Incentivar comportamentos éticos." +
+                                      "• Promover ações que considerem o respeito às normas estabelecidas.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -109,11 +118,13 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Design Digital",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Desenvolver elementos gráficos para aplicativos e sites.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade." +
+                                      "• Respeitar as manifestações culturais de outros povos." +
+                                      "• Estimular o interesse na resolução de situações - problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -130,11 +141,13 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Banco de Dados I",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Modelar banco de dados.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Estimular a organização." +
+                                      "• Estimular o interesse na resolução de situações - problema." +
+                                      "• Promover ações que considerem o respeito às normas estabelecidas.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));

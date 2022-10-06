@@ -25,7 +25,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Programação Web II",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -46,7 +46,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Programação de Aplicativos Mobile I",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -67,7 +67,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Ética e Cidadania Organizacional",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -88,7 +88,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Desenvolvimento de Sistemas",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -109,7 +109,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Sistemas Embarcados I",
 
                     AtribuicoesResponsabilidades = "",
 
@@ -130,7 +130,7 @@ namespace AppGuiaCurso.View
             {
                 var c = new Componentes
                 {
-                    Nome = "",
+                    Nome = "Banco de Dados II",
 
                     AtribuicoesResponsabilidades = "",
 
