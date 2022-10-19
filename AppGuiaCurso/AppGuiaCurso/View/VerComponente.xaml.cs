@@ -17,6 +17,7 @@ namespace AppGuiaCurso.View
         public VerComponente(Componentes c)
         {
             InitializeComponent();
+            BindingContext = c;
         }
     }
 }

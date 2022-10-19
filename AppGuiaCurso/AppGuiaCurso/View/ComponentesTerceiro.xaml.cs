@@ -27,9 +27,11 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Programação Web III",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Documentar, construir e manter sistemas de informação para web.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Responsabilizar-se pela produção, utilização e divulgação de informações.\n" +
+                                      "• Fortalecer a persistência e o interesse na resolução de situações-problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -48,9 +50,11 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Programação de Aplicativos Mobile II",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Documentar, construir e manter sistemas de informação para plataformas móveis.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Estimular a organização.\n" +
+                                      "• Responsabilizar-se pela produção, utilização e divulgação de informações.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -69,9 +73,12 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Internet, Protocolos e Segurança de Sistemas da Informação",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Implementar rotinas de segurança da informação.\n" +
+                                                   "• Utilizar protocolos de redes e internet para comunicação de dados.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar comportamentos éticos.\n" +
+                                      "• Promover ações que considerem o respeito às normas estabelecidas.\n" +
+                                      "• Fortalecer a persistência e o interesse na resolução de situações-problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -90,30 +97,11 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Planejamento e Desenvolvimento do Trabalho de Conclusão de Curso (TCC) em Desenvolvimento de Sistemas",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Planejar e desenvolver projetos de sistemas computacionais.",
 
-                    ValoresAtitudes = "",
-                };
-
-                await Navigation.PushAsync(new VerComponente(c));
-            }
-            catch (Exception ex)
-            {
-                await DisplayAlert("Erro!", ex.Message, "OK");
-            }
-        }
-
-        private async void Button_Clicked_SE2(object sender, EventArgs e)
-        {
-            try
-            {
-                var c = new Componentes
-                {
-                    Nome = "Sistemas Embarcados II",
-
-                    AtribuicoesResponsabilidades = "",
-
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Estimular a organização.\n" +
+                                      "• Incentivar comportamentos éticos.\n" +
+                                      "• Responsabilizar-se pela produção, utilização e divulgação de informações.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -132,9 +120,12 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Qualidade e Teste de Software",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Testar softwares para melhoria da qualidade de sistemas.\n" +
+                                                   "• Elaborar registros e planilhas de acompanhamento e controle das atividades.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Desenvolver criticidade.\n" +
+                                      "• Incentivar comportamentos éticos.\n" +
+                                      "• Responsabilizar-se pela produção, utilização e divulgação de informações.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));

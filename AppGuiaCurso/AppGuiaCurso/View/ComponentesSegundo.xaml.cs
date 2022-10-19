@@ -27,9 +27,11 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Programação Web II",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Planejar projetos de sistemas de informação para Web.   ",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Responsabilizar-se pela produção, utilização e divulgação de informações.\n" +
+                                      "• Fortalecer a persistência e o interesse na resolução de situações-problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -48,30 +50,11 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Programação de Aplicativos Mobile I",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Elaborar projetos de aplicativos para plataformas móveis.",
 
-                    ValoresAtitudes = "",
-                };
-
-                await Navigation.PushAsync(new VerComponente(c));
-            }
-            catch (Exception ex)
-            {
-                await DisplayAlert("Erro!", ex.Message, "OK");
-            }
-        }
-
-        private async void Button_Clicked_Etica(object sender, EventArgs e)
-        {
-            try
-            {
-                var c = new Componentes
-                {
-                    Nome = "Ética e Cidadania Organizacional",
-
-                    AtribuicoesResponsabilidades = "",
-
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Estimular a organização.\n" +
+                                      "• Responsabilizar-se pela produção, utilização e divulgação de informações.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -90,9 +73,12 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Desenvolvimento de Sistemas",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Codificar e depurar programas.\n" +
+                                                   "• Selecionar linguagens de programação e ambientes de desenvolvimento de acordo com as especificidades do projeto.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Desenvolver a criatividade.\n" +
+                                      "• Incentivar ações que promovam a cooperação.\n" +
+                                      "• Fortalecer a persistência e o interesse na resolução de situações-problema.\n",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -103,7 +89,7 @@ namespace AppGuiaCurso.View
             }
         }
 
-        private async void Button_Clicked_SE1(object sender, EventArgs e)
+        private async void Button_Clicked_SE(object sender, EventArgs e)
         {
             try
             {
@@ -111,9 +97,11 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Sistemas Embarcados I",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Desenvolver sistemas embarcados.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Estimular a organização.\n" +
+                                      "• Fortalecer a persistência e o interesse na resolução de situações-problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -132,9 +120,11 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Banco de Dados II",
 
-                    AtribuicoesResponsabilidades = "",
+                    AtribuicoesResponsabilidades = "• Implementar banco de dados.",
 
-                    ValoresAtitudes = "",
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Desenvolver a criticidade.\n" +
+                                      "• Fortalecer a persistência e o interesse na resolução de situações-problema.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));

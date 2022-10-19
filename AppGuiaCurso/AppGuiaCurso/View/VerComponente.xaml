@@ -2,27 +2,37 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaCurso.View.VerComponente"
-             BackgroundColor="#F3F2F0"
+             BackgroundColor="White"
              Title="Detalhes do Componente">
     <ContentPage.Content>
         <StackLayout>
+            <StackLayout.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="White" Offset="0.5" />
+                    <GradientStop Color="#A9A9A9" Offset="1.0" />
+                </LinearGradientBrush>
+            </StackLayout.Background>
+            
             <ScrollView>
-                <StackLayout Padding="20">
+                <StackLayout Padding="20" VerticalOptions="CenterAndExpand">
 
                     <Label Text="{Binding Nome}" HorizontalTextAlignment="Center" FontAttributes="Bold"
-                           Margin="0, 0, 0, 30" TextColor="#Ab0209" FontSize="Title" />
+                           Margin="0, 50, 0, 30" TextColor="Red" FontSize="40" />
 
                     <Label Text="Atribuições e Responsabilidades" HorizontalTextAlignment="Center" TextColor="#F3F2F0"
-                           BackgroundColor="#3E474C" FontSize="Large" />
+                           BackgroundColor="#3E474C" FontSize="Large" Margin="0, 40, 0, 0" />
 
                     <Label Text="{Binding AtribuicoesResponsabilidades}" HorizontalTextAlignment="Center" FontSize="Medium"
-                           Margin="0, 0, 0, 30" />
+                           Margin="0, 0, 0, 30" TextColor="Black"/>
 
                     <Label Text="Valores e Atitudes" HorizontalTextAlignment="Center" TextColor="#F3F2F0"
-                           BackgroundColor="#3E474C" FontSize="Large" />
+                           BackgroundColor="#3E474C" FontSize="Large" Margin="0, 50, 0, 0"/>
 
                     <Label Text="{Binding ValoresAtitudes}" HorizontalTextAlignment="Center" FontSize="Medium"
-                           Margin="0, 0, 0, 30" />
+                           Margin="0, 0, 0, 30" TextColor="Black"/>
+                    
+                    <!-- Colocar Imagem de algo da matéria -->
+                    <!-- <Image />-->
 
                 </StackLayout>
             </ScrollView>

@@ -2,10 +2,17 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppGuiaCurso.View.ComponentesPrimeiro"
-             BackgroundColor="#F3F2F0"
+             BackgroundColor="White"
              Title="Disciplinas do Primeiro Ano">
     <ContentPage.Content>
         <ScrollView>
+            <ScrollView.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="White" Offset="0.5" />
+                    <GradientStop Color="#A9A9A9" Offset="1.0" />
+                </LinearGradientBrush>
+            </ScrollView.Background>
+            
             <StackLayout VerticalOptions="CenterAndExpand" Padding="10">
                 <Button Text="Programação Web I" Clicked="Button_Clicked_Web1" Style="{ StaticResource botaoCinza }" />
                 <Button Text="Análise e Projeto de Sistemas" Clicked="Button_Clicked_Analise" Style="{ StaticResource botaoCinza }" />

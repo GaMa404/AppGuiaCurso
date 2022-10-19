@@ -29,8 +29,8 @@ namespace AppGuiaCurso.View
 
                     AtribuicoesResponsabilidades = "• Desenvolver sites para Web.",
 
-                    ValoresAtitudes = "• Incentivar a criatividade." +
-                                      "• Estimular a organização." +
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Estimular a organização.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.",
                 };
 
@@ -52,8 +52,8 @@ namespace AppGuiaCurso.View
 
                     AtribuicoesResponsabilidades = "• Elaborar projetos de sistema de informação.",
 
-                    ValoresAtitudes = "• Incentivar a criatividade." +
-                                      "• Estimular a organização." +
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Estimular a organização.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.",
                 };
 
@@ -73,11 +73,11 @@ namespace AppGuiaCurso.View
                 {
                     Nome = "Técnicas de Programação e Algoritmo",
 
-                    AtribuicoesResponsabilidades = "• Realizar versionamento no desenvolvimento de programas." +
-                                                   "• Utilizar algoritmos em linguagem de programação,por meio de ambientes de desenvolvimento de acordo com as necessidades.",
+                    AtribuicoesResponsabilidades = "• Realizar versionamento no desenvolvimento de programas.\n" +
+                                                   "• Utilizar algoritmos em linguagem de programação, por meio de ambientes de desenvolvimento de acordo com as necessidades.",
 
-                    ValoresAtitudes = "• Incentivar atitudes de autonomia." +
-                                      "• Incentivar comportamentos éticos." +
+                    ValoresAtitudes = "• Incentivar atitudes de autonomia.\n" +
+                                      "• Incentivar comportamentos éticos.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.",
                 };
 
@@ -99,8 +99,8 @@ namespace AppGuiaCurso.View
 
                     AtribuicoesResponsabilidades = "• Operar sistemas computacionais.",
 
-                    ValoresAtitudes = "• Desenvolver a criticidade." +
-                                      "• Incentivar comportamentos éticos." +
+                    ValoresAtitudes = "• Desenvolver a criticidade.\n" +
+                                      "• Incentivar comportamentos éticos.\n" +
                                       "• Promover ações que considerem o respeito às normas estabelecidas.",
                 };
 
@@ -122,8 +122,8 @@ namespace AppGuiaCurso.View
 
                     AtribuicoesResponsabilidades = "• Desenvolver elementos gráficos para aplicativos e sites.",
 
-                    ValoresAtitudes = "• Incentivar a criatividade." +
-                                      "• Respeitar as manifestações culturais de outros povos." +
+                    ValoresAtitudes = "• Incentivar a criatividade.\n" +
+                                      "• Respeitar as manifestações culturais de outros povos.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.",
                 };
 
@@ -145,8 +145,8 @@ namespace AppGuiaCurso.View
 
                     AtribuicoesResponsabilidades = "• Modelar banco de dados.",
 
-                    ValoresAtitudes = "• Estimular a organização." +
-                                      "• Estimular o interesse na resolução de situações - problema." +
+                    ValoresAtitudes = "• Estimular a organização.\n" +
+                                      "• Estimular o interesse na resolução de situações - problema.\n" +
                                       "• Promover ações que considerem o respeito às normas estabelecidas.",
                 };
 

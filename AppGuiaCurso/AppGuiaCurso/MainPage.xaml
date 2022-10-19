@@ -16,12 +16,18 @@
                 </StackLayout>
 
                 <StackLayout Grid.Row="1" Spacing="10" Margin="10" Padding="10" BackgroundColor="#F3F2F0">
-                    <Button Text="Inicial" Clicked="Open_Inicial" Style="{ StaticResource botaoVermelho }" />
-                    <Button Text="Primeiro Ano" Clicked="Open_Primeiro" Style="{ StaticResource botaoCinza }" />
-                    <Button Text="Segundo Ano" Clicked="Open_Segundo" Style="{ StaticResource botaoCinza }" />
-                    <Button Text="Terceiro Ano" Clicked="Open_Terceiro" Style="{ StaticResource botaoCinza }" />
-                    <Button Text="Vestibulinho" Clicked="Open_Vestibulinho" Style="{ StaticResource botaoVermelho }" />
-                    <Button Text="Contato" Clicked="Open_Contato" Style="{ StaticResource botaoVermelho }" />
+                    <StackLayout.Background>
+                        <LinearGradientBrush EndPoint="0,1">
+                            <GradientStop Color="White" Offset="0.5" />
+                            <GradientStop Color="#A9A9A9" Offset="1.0" />
+                        </LinearGradientBrush>
+                    </StackLayout.Background>
+                    <Button Text="Inicial" Clicked="Open_Inicial" Style="{ StaticResource botaoVermelho }" Margin="0, 90, 0, 0"/>
+                    <Button Text="Primeiro Ano" Clicked="Open_Primeiro" Style="{ StaticResource botaoCinza }" Margin="0, 10, 0, 0 " />
+                    <Button Text="Segundo Ano" Clicked="Open_Segundo" Style="{ StaticResource botaoCinza }" Margin="0, 10, 0, 0 "/>
+                    <Button Text="Terceiro Ano" Clicked="Open_Terceiro" Style="{ StaticResource botaoCinza }" Margin="0, 10, 0, 0 " />
+                    <Button Text="Vestibulinho" Clicked="Open_Vestibulinho" Style="{ StaticResource botaoVermelho }" Margin="0, 10, 0, 0 " />
+                    <Button Text="Contato" Clicked="Open_Contato" Style="{ StaticResource botaoVermelho }" Margin="0, 10, 0, 0 " />
                 </StackLayout>
             </Grid>
         </ContentPage>

@@ -16,5 +16,17 @@ namespace AppGuiaCurso.View
         {
             InitializeComponent();
         }
+
+        private async void Button_Clicked(object sender, EventArgs e)
+        {
+            try
+            {
+                Device.OpenUri(new Uri("http://www.vestibulinhoetec.com.br"));
+            }
+            catch (Exception ex)
+            {
+                await DisplayAlert("Erro", ex.Message, "OK");
+            }
+        }
     }
 }
