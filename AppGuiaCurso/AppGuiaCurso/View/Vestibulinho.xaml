@@ -12,6 +12,10 @@
                 </LinearGradientBrush>
             </StackLayout.Background>
 
+            <Frame CornerRadius="20" Margin="10, 50, 10, 0">
+                <Image x:Name="vestibulinho" />
+            </Frame>
+            
             <StackLayout VerticalOptions="CenterAndExpand" Padding="10">
                 <Label Text="FIQUE ATENTO AS DATAS, ACESSE O SITE ABAIXO" HorizontalTextAlignment="Center" FontAttributes="Bold" Margin="10"
                    FontSize="Title" TextColor="Black"/>

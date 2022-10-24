@@ -11,11 +11,212 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Imagens\PrimeiroAno\Algoritmo\Captura de tela 2022-10-20 151650.png" />
+    <None Remove="Imagens\PrimeiroAno\Algoritmo\Captura de tela 2022-10-20 151725.png" />
+    <None Remove="Imagens\PrimeiroAno\Algoritmo\Captura de tela 2022-10-20 151740.png" />
+    <None Remove="Imagens\PrimeiroAno\Analise\Captura de tela 2022-10-20 152844.png" />
+    <None Remove="Imagens\PrimeiroAno\Analise\Captura de tela 2022-10-20 152919.png" />
+    <None Remove="Imagens\PrimeiroAno\Analise\Captura de tela 2022-10-20 152944.png" />
+    <None Remove="Imagens\PrimeiroAno\Analise\Captura de tela 2022-10-20 152955.png" />
+    <None Remove="Imagens\PrimeiroAno\Analise\Fluxograma Matrícula.png" />
+    <None Remove="Imagens\PrimeiroAno\Analise\WhatsApp Image 2022-10-20 at 15.27.22.jpeg" />
+    <None Remove="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 153821.png" />
+    <None Remove="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 153920.png" />
+    <None Remove="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 153936.png" />
+    <None Remove="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 154001.png" />
+    <None Remove="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 154723.png" />
+    <None Remove="Imagens\PrimeiroAno\Design\Lamborghini.gif" />
+    <None Remove="Imagens\PrimeiroAno\Design\LamborghiniCartão2.png" />
+    <None Remove="Imagens\PrimeiroAno\Design\logo metally.png" />
+    <None Remove="Imagens\PrimeiroAno\Design\Rede De Display - Anúncio em Vídeo.png" />
+    <None Remove="Imagens\PrimeiroAno\Fundamentos\Captura de tela 2022-10-20 153108.png" />
+    <None Remove="Imagens\PrimeiroAno\Fundamentos\Captura de tela 2022-10-20 153157.png" />
+    <None Remove="Imagens\PrimeiroAno\Fundamentos\Captura de tela 2022-10-20 153449.png" />
+    <None Remove="Imagens\PrimeiroAno\ProWebI\Captura de tela 2022-10-20 150632.png" />
+    <None Remove="Imagens\PrimeiroAno\ProWebI\Captura de tela 2022-10-20 150756.png" />
+    <None Remove="Imagens\PrimeiroAno\ProWebI\Captura de tela 2022-10-20 150818.png" />
+    <None Remove="Imagens\PrimeiroAno\ProWebI\Captura de tela 2022-10-20 150901.png" />
+    <None Remove="Imagens\SegundoAno\BancoII\Captura de tela 2022-10-24 091720.png" />
+    <None Remove="Imagens\SegundoAno\BancoII\Captura de tela 2022-10-24 091829.png" />
+    <None Remove="Imagens\SegundoAno\BancoII\Captura de tela 2022-10-24 092231.png" />
+    <None Remove="Imagens\SegundoAno\BancoII\Captura de tela 2022-10-24 092257.png" />
+    <None Remove="Imagens\SegundoAno\DS\Captura de tela 2022-10-24 092459.png" />
+    <None Remove="Imagens\SegundoAno\DS\Captura de tela 2022-10-24 092829.png" />
+    <None Remove="Imagens\SegundoAno\DS\Captura de tela 2022-10-24 092905.png" />
+    <None Remove="Imagens\SegundoAno\DS\Captura de tela 2022-10-24 093003.png" />
+    <None Remove="Imagens\SegundoAno\Embarcados\Captura de tela 2022-10-24 090805.png" />
+    <None Remove="Imagens\SegundoAno\Embarcados\Captura de tela 2022-10-24 090838.png" />
+    <None Remove="Imagens\SegundoAno\Embarcados\Captura de tela 2022-10-24 090850.png" />
+    <None Remove="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.42.jpeg" />
+    <None Remove="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.43 %281%29.jpeg" />
+    <None Remove="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.43.jpeg" />
+    <None Remove="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.44 %281%29.jpeg" />
+    <None Remove="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.44.jpeg" />
+    <None Remove="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-20 155132.png" />
+    <None Remove="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-20 155148.png" />
+    <None Remove="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-20 155210.png" />
+    <None Remove="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-20 155314.png" />
+    <None Remove="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-24 091311.png" />
+    <None Remove="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-24 091354.png" />
     <None Remove="logo_etec.png" />
+    <None Remove="segundo_ds.jpg" />
+    <None Remove="View\etecjau.jpeg" />
+    <None Remove="View\segundo_ds.jpg" />
+    <None Remove="View\vestibulinho.jpg" />
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Algoritmo\Captura de tela 2022-10-20 151650.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Algoritmo\Captura de tela 2022-10-20 151725.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Algoritmo\Captura de tela 2022-10-20 151740.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Analise\Captura de tela 2022-10-20 152844.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Analise\Captura de tela 2022-10-20 152919.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Analise\Captura de tela 2022-10-20 152944.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Analise\Captura de tela 2022-10-20 152955.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Analise\Fluxograma Matrícula.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Analise\WhatsApp Image 2022-10-20 at 15.27.22.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 153821.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 153920.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 153936.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 154001.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\BancoI\Captura de tela 2022-10-20 154723.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Design\Lamborghini.gif">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Design\LamborghiniCartão2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Design\logo metally.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Design\Rede De Display - Anúncio em Vídeo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Fundamentos\Captura de tela 2022-10-20 153108.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Fundamentos\Captura de tela 2022-10-20 153157.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\Fundamentos\Captura de tela 2022-10-20 153449.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\ProWebI\Captura de tela 2022-10-20 150632.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\ProWebI\Captura de tela 2022-10-20 150756.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\ProWebI\Captura de tela 2022-10-20 150818.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\PrimeiroAno\ProWebI\Captura de tela 2022-10-20 150901.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\BancoII\Captura de tela 2022-10-24 091720.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\BancoII\Captura de tela 2022-10-24 091829.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\BancoII\Captura de tela 2022-10-24 092231.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\BancoII\Captura de tela 2022-10-24 092257.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\DS\Captura de tela 2022-10-24 092459.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\DS\Captura de tela 2022-10-24 092829.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\DS\Captura de tela 2022-10-24 092905.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\DS\Captura de tela 2022-10-24 093003.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\Embarcados\Captura de tela 2022-10-24 090805.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\Embarcados\Captura de tela 2022-10-24 090838.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\Embarcados\Captura de tela 2022-10-24 090850.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.42.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.43 (1).jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.43.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.44 (1).jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\MobileI\WhatsApp Image 2022-10-24 at 08.26.44.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-20 155132.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-20 155148.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-20 155210.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-20 155314.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-24 091311.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagens\SegundoAno\ProWebII\Captura de tela 2022-10-24 091354.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
     <EmbeddedResource Include="logo_etec.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="segundo_ds.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\etecjau.jpeg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\vestibulinho.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </EmbeddedResource>
   </ItemGroup>

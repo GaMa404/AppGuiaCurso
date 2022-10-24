@@ -15,6 +15,8 @@ namespace AppGuiaCurso
         public Inicial()
         {
             InitializeComponent();
+
+            segundo_ds.Source = ImageSource.FromResource("AppGuiaCurso.segundo_ds.jpg");
         }
     }
 }

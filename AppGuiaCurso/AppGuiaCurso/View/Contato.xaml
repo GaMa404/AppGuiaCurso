@@ -14,17 +14,20 @@
                 </LinearGradientBrush>
             </StackLayout.Background>
 
-            <StackLayout VerticalOptions="CenterAndExpand" Padding="10">
+            <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" >
 
-            <Label Text="ETEC Joaquim Ferreira do Amaral" FontSize="Title" FontAttributes="Bold"
-                  VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black" />
+                <Label Text="ETEC Joaquim Ferreira do Amaral" FontSize="40" FontAttributes="Bold" TextColor="Black" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center"/>
+                
+                <Frame CornerRadius="20" Margin="10, 20, 10, 0">
+                    <Image x:Name="etec" Scale="1.5"/>
+                </Frame>
 
-            <Label Text="R. Humaitá, 1090 - Centro, Jaú, SP, 17201-320" VerticalOptions="CenterAndExpand"
-                   HorizontalOptions="CenterAndExpand" TextColor="Black" FontSize="Medium"/>
+                <Label Text="R. Humaitá, 1090 - Centro," TextColor="Black" FontSize="Medium" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                <Label Text="Jaú, SP 17201-320" TextColor="Black" FontSize="Medium" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
 
-            <Button Text="Tel: (14) 3622-3566" Margin="10" Clicked="Button_Clicked" Style="{ StaticResource botaoVermelho }" />
+                <Button Text="Tel: (14) 3622-3566" Margin="10" Clicked="Button_Clicked" Style="{ StaticResource botaoVermelho }" />
 
-            <Label Text="E-mail: e070dir@cps.sp.gov.br" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" TextColor="Black" FontSize="Medium"/>
+                <Label Text="E-mail: e070dir@cps.sp.gov.br" TextColor="Black" FontSize="Medium" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
 
         </StackLayout>
     </StackLayout>

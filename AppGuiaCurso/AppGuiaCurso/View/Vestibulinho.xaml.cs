@@ -15,6 +15,8 @@ namespace AppGuiaCurso.View
         public Vestibulinho()
         {
             InitializeComponent();
+
+            vestibulinho.Source = ImageSource.FromResource("AppGuiaCurso.View.vestibulinho.jpg");
         }
 
         private async void Button_Clicked(object sender, EventArgs e)

@@ -15,6 +15,8 @@ namespace AppGuiaCurso.View
         public Contato()
         {
             InitializeComponent();
+
+            etec.Source = ImageSource.FromResource("AppGuiaCurso.View.etecjau.jpeg");
         }
 
         private void Button_Clicked(object sender, EventArgs e)

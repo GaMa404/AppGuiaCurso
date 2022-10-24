@@ -32,6 +32,13 @@ namespace AppGuiaCurso.View
                     ValoresAtitudes = "• Incentivar a criatividade.\n" +
                                       "• Estimular a organização.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.",
+
+                    CaminhoImagem = "AppGuiaCurso.Imagens.PrimeiroAno.ProWebI.Captura de tela 2022-10-20 150632.png",
+                    CaminhoImagem2 = "AppGuiaCurso.Imagens.PrimeiroAno.ProWebI.Captura de tela 2022-10-20 150756.png",
+                    CaminhoImagem3 = "AppGuiaCurso.Imagens.PrimeiroAno.ProWebI.Captura de tela 2022-10-20 150818.png",
+                    CaminhoImagem4 = "AppGuiaCurso.Imagens.PrimeiroAno.ProWebI.Captura de tela 2022-10-20 150901.png",
+                    //CaminhoImagem5 = "AppGuiaCurso.Imagens.PrimeiroAno.ProWebI.",
+                    //CaminhoImagem6 = "AppGuiaCurso.Imagens.PrimeiroAno.ProWebI.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -55,6 +62,13 @@ namespace AppGuiaCurso.View
                     ValoresAtitudes = "• Incentivar a criatividade.\n" +
                                       "• Estimular a organização.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.",
+
+                    CaminhoImagem = "AppGuiaCurso.Imagens.PrimeiroAno.Analise.Captura de tela 2022-10-20 152844.png",
+                    CaminhoImagem2 = "AppGuiaCurso.Imagens.PrimeiroAno.Analise.Captura de tela 2022-10-20 152919.png",
+                    CaminhoImagem3 = "AppGuiaCurso.Imagens.PrimeiroAno.Analise.Captura de tela 2022-10-20 152944.png",
+                    CaminhoImagem4 = "AppGuiaCurso.Imagens.PrimeiroAno.Analise.Captura de tela 2022-10-20 152955.png",
+                    CaminhoImagem5 = "AppGuiaCurso.Imagens.PrimeiroAno.Analise.Fluxograma Matrícula.png",
+                    CaminhoImagem6 = "AppGuiaCurso.Imagens.PrimeiroAno.Analise.WhatsApp Image 2022-10-20 at 15.27.22.jpeg",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -79,6 +93,13 @@ namespace AppGuiaCurso.View
                     ValoresAtitudes = "• Incentivar atitudes de autonomia.\n" +
                                       "• Incentivar comportamentos éticos.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.",
+
+                    CaminhoImagem = "AppGuiaCurso.Imagens.PrimeiroAno.Algoritmo.Captura de tela 2022-10-20 151650.png",
+                    CaminhoImagem2 = "AppGuiaCurso.Imagens.PrimeiroAno.Algoritmo.Captura de tela 2022-10-20 151725.png",
+                    CaminhoImagem3 = "AppGuiaCurso.Imagens.PrimeiroAno.Algoritmo.Captura de tela 2022-10-20 151740.png",
+                    //CaminhoImagem4 = "AppGuiaCurso.Imagens.PrimeiroAno.Algoritmo.",
+                    //CaminhoImagem5 = "AppGuiaCurso.Imagens.PrimeiroAno.Algoritmo.",
+                    //CaminhoImagem6 = "AppGuiaCurso.Imagens.PrimeiroAno.Algoritmo.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -102,6 +123,13 @@ namespace AppGuiaCurso.View
                     ValoresAtitudes = "• Desenvolver a criticidade.\n" +
                                       "• Incentivar comportamentos éticos.\n" +
                                       "• Promover ações que considerem o respeito às normas estabelecidas.",
+
+                    CaminhoImagem = "AppGuiaCurso.Imagens.PrimeiroAno.Fundamentos.Captura de tela 2022-10-20 153108.png",
+                    CaminhoImagem2 = "AppGuiaCurso.Imagens.PrimeiroAno.Fundamentos.Captura de tela 2022-10-20 153108.png",
+                    CaminhoImagem3 = "AppGuiaCurso.Imagens.PrimeiroAno.Fundamentos.Captura de tela 2022-10-20 153108.png",
+                    //CaminhoImagem4 = "AppGuiaCurso.Imagens.PrimeiroAno.Fundamentos.",
+                    //CaminhoImagem5 = "AppGuiaCurso.Imagens.PrimeiroAno.Fundamentos.",
+                    //CaminhoImagem6 = "AppGuiaCurso.Imagens.PrimeiroAno.Fundamentos.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -125,6 +153,13 @@ namespace AppGuiaCurso.View
                     ValoresAtitudes = "• Incentivar a criatividade.\n" +
                                       "• Respeitar as manifestações culturais de outros povos.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.",
+
+                    CaminhoImagem = "AppGuiaCurso.Imagens.PrimeiroAno.Design.Lamborghini.gif",
+                    CaminhoImagem2 = "AppGuiaCurso.Imagens.PrimeiroAno.Design.LamborghiniCartão2.png",
+                    CaminhoImagem3 = "AppGuiaCurso.Imagens.PrimeiroAno.Design.logo metally.png",
+                    CaminhoImagem4 = "AppGuiaCurso.Imagens.PrimeiroAno.Design.Rede De Display - Anúncio em Vídeo.png",
+                    //CaminhoImagem5 = "AppGuiaCurso.Imagens.PrimeiroAno.Design.",
+                    //CaminhoImagem6 = "AppGuiaCurso.Imagens.PrimeiroAno.Design.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));
@@ -148,6 +183,13 @@ namespace AppGuiaCurso.View
                     ValoresAtitudes = "• Estimular a organização.\n" +
                                       "• Estimular o interesse na resolução de situações - problema.\n" +
                                       "• Promover ações que considerem o respeito às normas estabelecidas.",
+
+                    CaminhoImagem = "AppGuiaCurso.Imagens.PrimeiroAno.BancoI.Captura de tela 2022-10-20 153821.png",
+                    CaminhoImagem2 = "AppGuiaCurso.Imagens.PrimeiroAno.BancoI.Captura de tela 2022-10-20 153920.png",
+                    CaminhoImagem3 = "AppGuiaCurso.Imagens.PrimeiroAno.BancoI.Captura de tela 2022-10-20 153936.png",
+                    CaminhoImagem4 = "AppGuiaCurso.Imagens.PrimeiroAno.BancoI.Captura de tela 2022-10-20 154001.png",
+                    CaminhoImagem5 = "AppGuiaCurso.Imagens.PrimeiroAno.BancoI.Captura de tela 2022-10-20 154723.png",
+                    //CaminhoImagem6 = "AppGuiaCurso.Imagens.PrimeiroAno.BancoI.",
                 };
 
                 await Navigation.PushAsync(new VerComponente(c));

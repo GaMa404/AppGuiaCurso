@@ -30,10 +30,20 @@
 
                     <Label Text="{Binding ValoresAtitudes}" HorizontalTextAlignment="Center" FontSize="Medium"
                            Margin="0, 0, 0, 30" TextColor="Black"/>
-                    
-                    <!-- Colocar Imagem de algo da matéria -->
-                    <!-- <Image />-->
 
+                    <Frame CornerRadius="20" BackgroundColor="#DCDCDC">
+
+
+                        <StackLayout>
+                            <Image x:Name="imagem1" />
+                            <Image x:Name="imagem2" />
+                            <Image x:Name="imagem3" />
+                            <Image x:Name="imagem4" />
+                            <Image x:Name="imagem5" />
+                            <Image x:Name="imagem6" />
+                        </StackLayout>
+                    </Frame>
+                    
                 </StackLayout>
             </ScrollView>
         </StackLayout>
